@@ -44,6 +44,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #e7a394;
+    transition: color .5s, 
+}
+
 p {
     font-size: 17px;
 }
